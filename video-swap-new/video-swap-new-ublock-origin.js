@@ -58,7 +58,7 @@ twitch-videoad.js text/javascript
                 ${parseAttributes.toString()}
                 ${onFoundAd.toString()}
                 declareOptions(self);
-                self.addEventListener('message', function(e) {
+scope.PlayerType2 = to embed
                     if (e.data.key == 'UboUpdateDeviceId') {
                         gql_device_id = e.data.value;
                     } else if (e.data.key == 'UpdateClientIntegrityHeader') {
